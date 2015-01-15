@@ -1,0 +1,20 @@
+"C:\Program Files\Java\jdk1.7.0_45\bin\java" -Didea.launcher.port=7547 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.7.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jfxrt.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext\zipfs.jar;D:\projects\mediaocean\target\classes;C:\Users\kunalp\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\org\springframework\spring-aop\4.0.0.RELEASE\spring-aop-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\kunalp\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\kunalp\.m2\repository\org\springframework\spring-expression\4.0.0.RELEASE\spring-expression-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\org\springframework\spring-jdbc\4.0.0.RELEASE\spring-jdbc-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\org\springframework\spring-tx\4.0.0.RELEASE\spring-tx-4.0.0.RELEASE.jar;C:\Users\kunalp\.m2\repository\mysql\mysql-connector-java\5.1.18\mysql-connector-java-5.1.18.jar;C:\Users\kunalp\.m2\repository\commons-dbcp\commons-dbcp\1.4\commons-dbcp-1.4.jar;C:\Users\kunalp\.m2\repository\commons-pool\commons-pool\1.5.4\commons-pool-1.5.4.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain com.mo.prdsales.MainClass
+Jan 15, 2015 9:33:36 AM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@438b1699: startup date [Thu Jan 15 09:33:36 IST 2015]; root of context hierarchy
+Jan 15, 2015 9:33:36 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF.spring/applicationContext.xml]
+Jan 15, 2015 9:33:37 AM org.springframework.core.io.support.PropertiesLoaderSupport loadProperties
+INFO: Loading properties file from URL [file:/D:/projects/mediaocean/target/classes/META-INF.spring/database.properties]
+Product Name          Total Sold          Total Amount
+=======================================================
+Product1           2           30.00
+Product10           1           10000.00
+Product2           3           180.82
+Product3           3           129.11
+Product4           1           44.90
+Product5           2           3000.00
+Product6           2           1000.00
+Product8           1           888.00
+Product9           1           999.00
+
+Process finished with exit code 0
